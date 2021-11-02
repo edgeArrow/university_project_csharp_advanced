@@ -1,0 +1,10 @@
+E:\Visual Studio projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Visual Studio projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Visual Studio projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Visual Studio projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Visual Studio projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Visual Studio projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Visual Studio projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Visual Studio projects\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio projects\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+E:\Visual Studio projects\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
